@@ -164,9 +164,6 @@ sudoku = [    [0, 0, 0, 0, 4, 0, 6, 1, 3],
 
 # Main loop
 # Sudoku Overlay
-for i in range(5):
-    print("Sudoku Overlay in: " + str(5 - i))
-    time.sleep(1)
 screen.fill(WHITE)
 draw_sudoku()
 drawArray(sudoku)
