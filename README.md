@@ -1,9 +1,8 @@
 # Sudoku Solver
 This Python-based Sudoku Solver utilizes the Pygame library to visually demonstrate the process of solving Sudoku puzzles. It offers an engaging way to watch the backtracking algorithm in action.
 
-<p align="center">
 ![Sudoku Solver in Action](https://raw.githubusercontent.com/Horrible22232/Sudoku-Solver/main/fig/python_mTfixgQj3G.gif) 
-</p>
+
 ## Features
 - A graphical representation of the Sudoku grid using Pygame.
 - Real-time solving animation showcasing the backtracking algorithm.
